@@ -23,3 +23,54 @@ This repository contains my journey of learning and practicing **Data Structures
    ```bash
    git clone https://github.com/Subhradeep-05/DSA-in-JAVA-.git
    cd DSA-in-JAVA-
+Compile the Java program:
+
+javac JavaBasics.java
+
+
+Run the program:
+
+java JavaBasics
+
+📚 Topics Covered (so far)
+
+✅ Java Basics (OOP concepts, classes & objects, methods)
+
+🔜 Arrays
+
+🔜 Strings
+
+🔜 Linked List
+
+🔜 Stacks & Queues
+
+🔜 Trees & Graphs
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repo 🍴
+
+Create a new branch 🌱
+
+Add your code or improve existing ones
+
+Open a pull request 🚀
+
+🌟 Author
+
+👤 Subhradeep Dey
+
+💼 Full Stack Developer & Java Enthusiast
+
+📧 Email Me
+
+⭐ If you like this repository, don’t forget to star it on GitHub! ⭐
+
+
+---
+
+👉 This one is **simpler, cleaner, and focused**, no folder tree.  
+
+Do you want me to add **badges (Java version, GitHub stars, etc.)** at the very top to make it more eye-catching
