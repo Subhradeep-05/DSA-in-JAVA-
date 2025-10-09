@@ -2,22 +2,20 @@ import java.util.*;
 public class prime {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
+        boolean isPPrime = true;
         int n = sc.nextInt();
-
-        boolean isPrime = true;
-        for(int i=2; i<n-1; i++){
-            if(n%i == 0){
-                isPrime = false;
+        for(int i=2; i<=n-1; n++){
+            if(n % i == 0){
+                isPPrime = false;
             }
         }
 
-        if(isPrime=true){
-            System.out.println("The number is a prime number. The number you typed is: "+ n);
+        if(isPPrime == true){
+            System.out.println("The number is prime");
+        }
 
-        }
         else{
-            System.out.println("It is not a prime number.");
+            System.out.println("The given number is not prime");
         }
-        
     }
 }
