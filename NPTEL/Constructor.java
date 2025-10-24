@@ -1,3 +1,5 @@
+
+
 class SimpleInterest{
     double n, p, r;
     double si(){
